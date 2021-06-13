@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Micro-reddit exercise done through The Odin Project.
+This exercise aimed to familiarize students with Ruby on Rails and 
+model associations (belongs_to, has_many), and creating linked relational models.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It also allowed us to introduce basic validations, such as ensuring a field
+is present (presence: true), lengths, etc.
